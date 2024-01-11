@@ -1,4 +1,4 @@
-# Wheather Forecast example using React
+# Product list example using React
 
 Solution for **P2_productos** from React course by UPM taken in MiriadaX.
 
